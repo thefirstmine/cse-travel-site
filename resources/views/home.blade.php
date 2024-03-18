@@ -255,7 +255,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Persons</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Aurora Advocate out po si Julian</a>
+                            <a class="h5 text-decoration-none" href="feature/aurora">Aurora Advocate out po si Julian</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5.0 daw po sabi ni <small>(Julian)</small></h6>
@@ -274,7 +274,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>4 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Persons</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Experience the finest white sand in the Philippines</a>
+                            <a class="h5 text-decoration-none" href="feature/boracay">Experience the finest white sand in the Philippines</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.5 <small>(999+)</small></h6>
@@ -293,7 +293,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>2 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Visit the heart of Visayas with a 2-day tour</a>
+                            <a class="h5 text-decoration-none" href="feature/cebu">Visit the heart of Visayas with a 2-day tour</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.2 <small>(598)</small></h6>
@@ -312,7 +312,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>3 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Feel the nightlife and shop like never before</a>
+                            <a class="h5 text-decoration-none" href="feature/hongkong">Feel the nightlife and shop like never before</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.0 <small>(722)</small></h6>
@@ -331,7 +331,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>5 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Explore the city and delve into Malaysia's nature</a>
+                            <a class="h5 text-decoration-none" href="feature/kuala">Explore the city and delve into Malaysia's nature</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.4 <small>(279)</small></h6>
@@ -350,7 +350,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Take a dive in the underground rivers</a>
+                            <a class="h5 text-decoration-none" href="feature/puerto">Take a dive in the underground rivers</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
@@ -369,7 +369,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>4 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Surf's out while the sun's out in Surigao del Norte </a>
+                            <a class="h5 text-decoration-none" href="feature/siargao">Surf's out while the sun's out in Surigao del Norte </a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.5 <small>(449)</small></h6>
@@ -388,7 +388,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Feel like a crazy rich Asian? Splurge in Singapore</a>
+                            <a class="h5 text-decoration-none" href="feature/singapore">Feel like a crazy rich Asian? Splurge in Singapore</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>3.9 <small>(173)</small></h6>
@@ -407,7 +407,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Start your Taiwanese food crawl now!</a>
+                            <a class="h5 text-decoration-none" href="feature/taipei">Start your Taiwanese food crawl now!</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.5 <small>(203)</small></h6>
@@ -426,7 +426,7 @@
                                 <small class="m-0"><i class="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small class="m-0"><i class="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a class="h5 text-decoration-none" href="">Immerse in the Japanese culture today in Tokyo</a>
+                            <a class="h5 text-decoration-none" href="feature/tokyo">Immerse in the Japanese culture today in Tokyo</a>
                             <div class="border-top mt-4 pt-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>4.8 <small>(556)</small></h6>

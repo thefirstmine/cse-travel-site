@@ -52,6 +52,47 @@ class HomeController extends Controller
     {
         return view('package/ten');
     }
+
+    public function aurora()
+    {
+        return view('feature/aurora');
+    }
+    public function boracay()
+    {
+        return view('feature/boracay');
+    }
+    public function cebu()
+    {
+        return view('feature/cebu');
+    }
+    public function hongkong()
+    {
+        return view('feature/hongkong');
+    }
+    public function kuala()
+    {
+        return view('feature/kuala');
+    }
+    public function puerto()
+    {
+        return view('feature/puerto');
+    }
+    public function siargao()
+    {
+        return view('feature/siargao');
+    }
+    public function singapore()
+    {
+        return view('feature/singapore');
+    }
+    public function taipei()
+    {
+        return view('feature/taipei');
+    }
+    public function tokyo()
+    {
+        return view('feature/tokyo');
+    }
     public function users()
     {
         $users = User::all();

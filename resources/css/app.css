@@ -151,23 +151,23 @@
     top: -.5em;
   }
   
-  a {
+  a, .buttonPackage{
     color: #E9B666 !important;
     text-decoration: none;
     background-color: transparent;
   }
   
-  a:hover {
+  a:hover, .buttonPackage:hover {
     color: #b98e48;
     text-decoration: underline;
   }
   
-  a:not([href]):not([class]) {
+  a:not([href]):not([class]),.buttonPackage:not([href]):not([class]) {
     color: inherit;
     text-decoration: none;
   }
   
-  a:not([href]):not([class]):hover {
+  a:not([href]):not([class]):hover, .buttonPackage:not([href]):not([class]):hover {
     color: inherit;
     text-decoration: none;
   }

@@ -32,6 +32,18 @@ Route::post('/package/7', [App\Http\Controllers\HomeController::class, 'seven'])
 Route::post('/package/8', [App\Http\Controllers\HomeController::class, 'eight'])->name('home');
 Route::post('/package/9', [App\Http\Controllers\HomeController::class, 'nine'])->name('home');
 Route::post('/package/10', [App\Http\Controllers\HomeController::class, 'ten'])->name('home');
+
+Route::get('/feature/aurora', [App\Http\Controllers\HomeController::class, 'aurora'])->name('home');
+Route::get('/feature/boracay', [App\Http\Controllers\HomeController::class, 'boracay'])->name('home');
+Route::get('/feature/cebu', [App\Http\Controllers\HomeController::class, 'cebu'])->name('home');
+Route::get('/feature/hongkong', [App\Http\Controllers\HomeController::class, 'hongkong'])->name('home');
+Route::get('/feature/kuala', [App\Http\Controllers\HomeController::class, 'kuala'])->name('home');
+Route::get('/feature/puerto', [App\Http\Controllers\HomeController::class, 'puerto'])->name('home');
+Route::get('/feature/siargao', [App\Http\Controllers\HomeController::class, 'siargao'])->name('home');
+Route::get('/feature/singapore', [App\Http\Controllers\HomeController::class, 'singapore'])->name('home');
+Route::get('/feature/taipei', [App\Http\Controllers\HomeController::class, 'taipei'])->name('home');
+Route::get('/feature/tokyo', [App\Http\Controllers\HomeController::class, 'tokyo'])->name('home');
+
 Route::get('/ordered', [App\Http\Controllers\OrderController::class, 'orderedpackages'])->name('home');
 Route::post('/update', [App\Http\Controllers\OrderController::class, 'update'])->name('home');
 Route::post('/delete', [App\Http\Controllers\OrderController::class, 'delete'])->name('home');
