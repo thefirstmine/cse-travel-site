@@ -25,6 +25,7 @@
         'resources/js/mail/jqBootstrapValidation.min.js',
         'resources/js/mail/contact.js',
     ])
+
     
 
 </head>
@@ -160,5 +161,6 @@
             </div>
         </div>
     </div>
+
 </body>
 </html>

@@ -4,6 +4,9 @@ import './bootstrap';
     
     // Dropdown on mouse hover
     $(document).ready(function () {
+        
+        console.log("testing");
+
         function toggleNavbarMethod() {
             if ($(window).width() > 992) {
                 $('.navbar .dropdown').on('mouseover', function () {
@@ -68,4 +71,3 @@ import './bootstrap';
     });
     
 })(jQuery);
-

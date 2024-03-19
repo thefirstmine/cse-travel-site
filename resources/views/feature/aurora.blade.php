@@ -27,8 +27,8 @@
                                     <select class="custom-select px-4" style="height: 47px;">
                                         <option selected>Destination</option>
                                         <option value="1">Destination 1</option>
-                                        <option value="2">Destination 1</option>
-                                        <option value="3">Destination 1</option>
+                                        <option value="2">Destination 2</option>
+                                        <option value="3">Destination 3</option>
                                     </select>
                                 </div>
                             </div>
@@ -52,7 +52,7 @@
                                         <option selected>Duration</option>
                                         <option value="1">Duration 1</option>
                                         <option value="2">Duration 2</option>
-                                        <option value="3">Duration 2</option>
+                                        <option value="3">Duration 3</option>
                                     </select>
                                 </div>
                             </div>
